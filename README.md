@@ -3,8 +3,6 @@
 ### GitHubStats
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=erhanertem&show_icons=true)
 
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
-
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
