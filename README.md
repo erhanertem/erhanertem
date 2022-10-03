@@ -1,6 +1,15 @@
 ### Hi there 👋 **I am Erhan ERTEM**
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+🧤 I got my hands on HTML, CSS, SASS and MySQL
+
+🌱 I’m currently learning ...Javascript
+
+🔮 I'm planning to learn more stuff on MySQL, MongoDB, PostgreSQL, Typscript, Vue, React 
+
+🎁 Alternate languages that I would like to look into in the future are Python, Julia, Flutter and C++ if I can keep my sanity.
+
 <!--
 **erhanertem/erhanertem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
