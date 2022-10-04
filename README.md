@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning ...Javascript
 
-🔮 I'm planning to learn more stuff on MySQL, MongoDB, PostgreSQL, Typscript, Vue, React 
+🔮 I'm planning to heat up with more stuff on MySQL, MongoDB, PostgreSQL, Typscript, Vue, React 
 
 🎁 Alternate languages that I would like to look into in the future are Python, Julia, Flutter and C++ if I can keep my sanity.
 
