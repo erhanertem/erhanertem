@@ -10,7 +10,7 @@
 
 🎁 Alternate languages that I would like to look into in the future are Python, Julia, Flutter and C++ if I can keep my sanity.
 
-📫 How to reach me [![Linkedin](https://img.shields.io/badge/-eertem-8CC569?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erhan-ertem-46ab361a0/) [![Telegram](https://img.shields.io/badge/-erhanertem-8CC569?style=flat&logo=telegram&logoColor=white)](https://t.me/erhanertem)
+📫 How to reach me [![Linkedin](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=Linkedin&logoColor=grey)](https://www.linkedin.com/in/erhan-ertem-46ab361a0/) [![Telegram](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=telegram&logoColor=white)](https://t.me/erhanertem)
 
 &nbsp;
 
