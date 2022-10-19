@@ -4,7 +4,7 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-### About Me :
+### About Me 
 
 <img src="./img/critical-thinking.gif" width="30px"/>  I’m currently learning ...Javascript
 
