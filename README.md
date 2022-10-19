@@ -6,13 +6,21 @@
 
 ### About Me :
 
-🌱 I’m currently learning ...Javascript
+<img src="./img/critical-thinking.gif" width="40px"/> I’m currently learning ...Javascript
+
+<img src="./img/fire.gif" width="40px"/> I'm planning to heat up with more stuff on MySQL, MongoDB, PostgreSQL, Typscript, Vue, React 
+
+🎁 Alternate languages that I would like to look into in the future are Python, Julia, Flutter and C++ if I can keep my sanity.
+
+<img src="./img/mailbox.gif" width="40px"/> How to reach me [![Linkedin](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=Linkedin&logoColor=grey)](https://www.linkedin.com/in/erhan-ertem-46ab361a0/) [![Telegram](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=telegram&logoColor=white)](https://t.me/erhanertem)
+
+<!-- 🌱 I’m currently learning ...Javascript
 
 🔮 I'm planning to heat up with more stuff on MySQL, MongoDB, PostgreSQL, Typscript, Vue, React 
 
 🎁 Alternate languages that I would like to look into in the future are Python, Julia, Flutter and C++ if I can keep my sanity.
 
-📫 How to reach me [![Linkedin](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=Linkedin&logoColor=grey)](https://www.linkedin.com/in/erhan-ertem-46ab361a0/) [![Telegram](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=telegram&logoColor=white)](https://t.me/erhanertem)
+📫 How to reach me [![Linkedin](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=Linkedin&logoColor=grey)](https://www.linkedin.com/in/erhan-ertem-46ab361a0/) [![Telegram](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=telegram&logoColor=white)](https://t.me/erhanertem) -->
 
 &nbsp;
 
@@ -33,7 +41,7 @@
 <details>
 <summary>Courses, Bootcamps attended</summary>
 
-| Course/Bootcamp                                                  | Languages/Frameworks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| <sub>**Course/Bootcamp**</sub>                                                  | <sub>**Languages/Frameworks**</sub>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <sub>Udemy The Git & Github Bootcamp</sub>                                   | ![KRAKEN](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white) ![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white?alt=github)                                                                                                                                                                                                                                                                                           |
 | <sub>Udemy Build Responsive Real-World Websites with HTML and CSS</sub>      | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)                                                                                                                                                                                                                  |
@@ -42,7 +50,7 @@
 | <sub>Udemy Advanced CSS and Sass Flexbox, Grid, Animations and More!</sub>   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)                                                                                                                                                                                                                             |
 | <sub>Udemy The Complete JavaScript Course 2022 From Zero to Expert!</sub>    | ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | <sub>Udemy The Ultimate MySQL Bootcamp Go from SQL Beginner to Expert</sub>  | ![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![expressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-  | <p><img src="./img/critical-thinking.gif" width="40px"/></p> <sub>Udemy Node.js, Express, MongoDB & More The Complete Bootcamp 2022</sub> | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![nodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![expressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)                                                                                    |
-......
+  | <sub>Udemy Node.js, Express, MongoDB & More The Complete Bootcamp 2022</sub> | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![nodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![expressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)                                                                                    |
+
 </details>
 
