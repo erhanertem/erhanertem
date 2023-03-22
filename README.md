@@ -19,18 +19,20 @@
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=html5&logoColor=white&color=D8E887)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=D8E887)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=D8E887)
+![](https://img.shields.io/badge/Style-React-informational?style=flat&logo=react&logoColor=white&color=D8E887)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=8CC569)
 ![](https://img.shields.io/badge/RTE-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=47A042)
-![](https://img.shields.io/badge/SQLDB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=47A042)
-![](https://img.shields.io/badge/SQLDB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=47A042)
-![](https://img.shields.io/badge/NoSQLDB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A042)
+![](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=47A042)
+![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=47A042)
+![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A042)
 
 <details>
 <summary>More Skills</summary>
 
-![GitKraken](https://img.shields.io/badge/Tool-GitKraken-informational?style=flat&logo=GitKraken&logoColor=white&color=f3b745)
-![Postman](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=f3b745)
-![Tableau](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Tool-GitKraken-informational?style=flat&logo=GitKraken&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Bundler-Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white)
 ......
 
 </details>
