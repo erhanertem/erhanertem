@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/RTE-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=8CC569)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFE366)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=EA8C10)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=66007D)
 ![](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=47A042)
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=47A042)
 ![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A042)
