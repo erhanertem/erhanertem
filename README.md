@@ -37,6 +37,7 @@
 
 ![](https://img.shields.io/badge/Tool-GitKraken-informational?style=flat&logo=GitKraken&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Tool-Insomnia-informational?style=flat&logo=Insomnia&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/BuildTool-Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=white)
 ![](https://img.shields.io/badge/BuildTool-Vite-8DD6F9?style=flat&logo=vite&logoColor=white)
