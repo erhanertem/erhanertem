@@ -6,9 +6,9 @@
 
 <img src="./img/critical-thinking.gif" width="30px"/> I’m currently learning ...Javascript
 
-<img src="./img/rocket.gif" width="30px"/> I'm planning to heat up with more stuff on MySQL, MongoDB, PostgreSQL, Typscript, Vue, React
+<img src="./img/rocket.gif" width="30px"/> I'm planning to heat up with more stuff on Typscript, Vue, Angular, React
 
-<img src="./img/nerd.gif" width="30px"/> Alternate languages that I would like to look into in the future are Python, Julia, Flutter and C++ if I can keep my sanity.
+<img src="./img/nerd.gif" width="30px"/> Alternate languages that I would like to look into in the future are Python, Julia, Flutter, C# and C++ if I can keep my sanity.
 
 <img src="./img/phonelink-ring.gif" width="30px"/> How to reach me [![Linkedin](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=Linkedin&logoColor=grey)](https://www.linkedin.com/in/erhan-ertem-46ab361a0/) [![Telegram](https://img.shields.io/badge/-&nbsp;-D8E887?style=flat&logo=telegram&logoColor=grey)](https://t.me/erhanertem)
 
