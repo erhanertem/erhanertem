@@ -6,9 +6,9 @@
 
 I'm an enthusiastic and detail-oriented self-taught junior developer coming from a background in construction and architecture. My interest in coding stemmed from a personal website project that I have created using Adobe Muse at a hobbyist level and has grown into a passion since then. 
 
-<img src="./img/critical-thinking.gif" width="30px"/> I’m currently learning JavaScript, aiming to equally balance my skills between frontend and backend technologies.
+<img src="./img/critical-thinking.gif" width="30px"/> Currently learning JavaScript, aiming to equally balance my skills between frontend and backend technologies.
 
-<img src="./img/rocket.gif" width="30px"/> I'm planning to heat up with more stuff on Vue, Angular, and React
+<img src="./img/rocket.gif" width="30px"/> Planning to heat up with more stuff on Vue, Angular, and React
 
 <img src="./img/nerd.gif" width="30px"/> Alternate languages that I would like to look into in the future are Python, Julia, Flutter, C# and C++ if I can keep my sanity.
 
