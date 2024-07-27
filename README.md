@@ -12,7 +12,7 @@ I'm an enthusiastic and detail-oriented self-taught junior developer coming from
 
 <img src="./img/nerd.gif" width="30px"/> Alternate languages that I would like to look into in the future are Python, Julia, Flutter, C# and C++ if I can keep my sanity.
 
-<img src="./img/phonelink-ring.gif" width="30px"/> How to reach me [![Linkedin](https://img.shields.io/badge/Linkedin-D8E887?style=flat&logo=Linkedin&logoColor=grey)](https://www.linkedin.com/in/erhan-ertem-46ab361a0/) [![Telegram](https://img.shields.io/badge/Telegram-D8E887?style=flat&logo=telegram&logoColor=grey)](https://t.me/erhanertem) [![Whatsapp](https://img.shields.io/badge/WhatsApp-D8E887?style=flat&logo=whatsapp&logoColor=grey)](https://wa.me/+905324847090)
+<img src="./img/phonelink-ring.gif" width="30px"/> How to reach me [![Linkedin](https://img.shields.io/badge/Linkedin-D8E887?style=flat&logo=Linkedin&logoColor=grey)](https://www.linkedin.com/in/erhan-ertem-46ab361a0/) [![Telegram](https://img.shields.io/badge/Telegram-D8E887?style=flat&logo=telegram&logoColor=grey)](https://t.me/erhanertem)
 
 &nbsp;
 
