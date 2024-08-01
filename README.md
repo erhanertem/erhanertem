@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm an enthusiastic and detail-oriented self-taught junior developer coming from a background in construction and architecture. My interest in coding stemmed from a personal website project that I have created using Adobe Muse at a hobbyist level and has grown into a passion since then.
+I am an enthusiastic and detail-oriented self-taught junior developer with a unique background in construction and architecture. My journey into coding began with a personal website project I created using Adobe Muse, initially just a hobby that quickly ignited a deep passion for software development. This experience has driven me to continuously expand my skills and knowledge in the tech world.
 
 <img src="./img/critical-thinking.gif" width="30px"/> Currently learning JavaScript, aiming to equally balance my skills between frontend and backend technologies.
 
