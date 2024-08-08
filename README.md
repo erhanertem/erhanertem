@@ -35,6 +35,8 @@ I am an enthusiastic and detail-oriented self-taught junior developer with a uni
 ![MySQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=47A042)
 ![PostgreSQL](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=47A042)
 ![MongoDB](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A042)
+![Redis](https://img.shields.io/badge/NoSQL-Redis-informational?style=flat&logo=redis&logoColor=white&color=47A042)
+
 
 <details>
 <summary>More Skills</summary>
