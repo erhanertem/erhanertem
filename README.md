@@ -32,6 +32,7 @@ I am an enthusiastic and detail-oriented self-taught junior developer with a uni
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=EA8C10)
 ![C#](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white&color=66007D)
 ![C++](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Script-Lua-informational?style=flat&logo=lua&logoColor=white)
 ![MySQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=47A042)
 ![PostgreSQL](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=47A042)
 ![MongoDB](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A042)
