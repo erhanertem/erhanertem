@@ -26,6 +26,7 @@ I am an enthusiastic and detail-oriented self-taught junior developer with a uni
 ![JS](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=8CC569)
 ![Typescript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=8CC569)
 ![React](https://img.shields.io/badge/JSLib-React-informational?style=flat&logo=react&logoColor=white&color=8CC569)
+![NextJS](https://img.shields.io/badge/JSMetaFwk-Next%20js-000000?style=flat&logo=nextdotjs&logoColor=white&color=8CC569)
 ![Three.js](https://img.shields.io/badge/JSLib-Three.JS-informational?style=flat&logo=three.js&logoColor=white&color=8CC569)
 ![Node.js](https://img.shields.io/badge/RTE-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=8CC569)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFE366)
