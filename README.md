@@ -47,6 +47,7 @@ I am an enthusiastic and detail-oriented self-taught junior developer with a uni
 ![Pug](https://img.shields.io/badge/Templates-Pug-acc4d2?style=flat&logo=pug&logoColor=white&color=d68910) 
 ![EJS](https://img.shields.io/badge/Templates-EJS-%23B4CA65.svg?style=flat&logo=ejs&logoColor=white&color=d68910)
 ![Sequelize](https://img.shields.io/badge/ORMs-Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white&color=cdd6ba)
+![Mongoose](https://img.shields.io/badge/ORMs-Mongoose-52B0E7?style=flat&logo=Sequelize&logoColor=white&color=cdd6ba)
 ![GitKraken](https://img.shields.io/badge/Tool-GitKraken-informational?style=flat&logo=GitKraken&logoColor=white&color=f3b745)
 ![Postman](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=f3b745)
 ![Insomnia](https://img.shields.io/badge/Tool-Insomnia-informational?style=flat&logo=Insomnia&logoColor=white&color=f3b745)
