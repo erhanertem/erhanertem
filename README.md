@@ -2,7 +2,10 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-### About Me
+
+
+## $${\color{#47A042}About \space Me}$$
+
 
 I am an enthusiastic and detail-oriented self-taught junior developer with a unique background in construction and architecture. My journey into coding began with a personal website project I created using Adobe Muse, initially just a hobby that quickly ignited a deep passion for software development. This experience has driven me to continuously expand my skills and knowledge in the tech world.
 
@@ -16,7 +19,7 @@ I am an enthusiastic and detail-oriented self-taught junior developer with a uni
 
 &nbsp;
 
-### Languages and Tools <img src="./img/swiss-army-knife.gif" width="30px"/>
+## $${\color{#47A042}Languages \space and \space Tools}$$ <img src="./img/swiss-army-knife.gif" width="30px"/>
 
 ![HTML5](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=html5&logoColor=white&color=D8E887)
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=D8E887)
